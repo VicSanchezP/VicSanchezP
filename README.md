@@ -29,7 +29,7 @@ A **Software Engineering** 🚀 from Guadalajara Jalisco, Mexico.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-<code><img height="20" src="icons/uipath.svg"></code>
+<code><img height="20" src="icons/uipath.jpg"></code>
 <code><img height="20" src="icons/AutomatioA.png"></code>
 <code><img height="20" src="icons/powerA.jpg"></code>
 
