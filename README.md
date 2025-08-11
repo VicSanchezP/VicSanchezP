@@ -2,7 +2,7 @@
 <h3 title="hehehe"> Hey 👋, I'm Victor Sanchez!</h3>
 
 <a href="https://www.linkedin.com/in/victor-daniel-sanchez-parga-a53150196">
-  <img align="left" alt="Victor's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right: 10px;", color="blue"/>
+  <img align="left" alt="Victor's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right: 10px; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(186deg) brightness(104%) contrast(97%);"/>
 </a>
 
 
