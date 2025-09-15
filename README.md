@@ -21,7 +21,7 @@ A **Software Engineering** 🚀 from Guadalajara Jalisco, Mexico.
 - 💼 I’m finished a enginner's degree in Software and Network.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [sapv880810@gmail.com](mailto:sapv880810@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1fJyI8uBtTcd2j9VOeIhXKJ70Spy-CX7m/view?usp=drive_link) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1xAAYi4ncXlZMHbUFSlH_bNRFJaTy16V_/view?usp=drive_link) to get more info.
 
 
 **Languages and Tools:**  
